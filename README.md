@@ -1,6 +1,6 @@
 # Internee.pk React Redesign
 
-A dark-first React/Vite homepage redesign for Internee.pk, built from the supplied PRD and design system.
+A dark-first React/Vite homepage redesign for Internee.pk
 
 ## Features
 - Responsive semantic homepage for students, job seekers, and instructors.
