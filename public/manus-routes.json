@@ -1,0 +1,14 @@
+{
+  "routes": [
+    { "path": "/", "title": "Internee.pk | Pakistan's Virtual Internship Platform" },
+    { "path": "/jobs", "title": "Internee.pk Jobs" },
+    { "path": "/dashboard", "title": "Internee.pk Dashboard" },
+    { "path": "/login", "title": "Sign in | Internee.pk" },
+    { "path": "/blog", "title": "Internee.pk Blog" },
+    { "path": "/studentambassadors", "title": "Student Ambassadors | Internee.pk" },
+    { "path": "/userprofile", "title": "Intern Profiles | Internee.pk" },
+    { "path": "/about", "title": "About Internee.pk" },
+    { "path": "/terms", "title": "Terms of Use | Internee.pk" },
+    { "path": "/privacy", "title": "Privacy Policy | Internee.pk" }
+  ]
+}
